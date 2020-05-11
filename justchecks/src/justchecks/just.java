@@ -6,6 +6,9 @@ public class just {
 		
 		
 		System.out.println("just check");
+		
+		
+		System.out.println("yryryry");
 		// TODO Auto-generated method stub
 
 	}
